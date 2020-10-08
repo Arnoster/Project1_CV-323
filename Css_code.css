@@ -7,7 +7,7 @@ a:hover{
     
 }
 body{
-   background-image: url(..//images/black_background.jpg);
+   background-image: url('https://s3.us-east-2.amazonaws.com/www.cv.duploy/black_background.jpg');
 }
 .container{
     width: 90%;
